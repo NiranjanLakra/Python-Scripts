@@ -1,3 +1,4 @@
+#USAGE : python md5_hash_enc.py 1 100
 import hashlib
 import sys
 
