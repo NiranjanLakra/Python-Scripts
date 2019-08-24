@@ -1,4 +1,6 @@
 
+# USAGE : python base64encoder.py numbers2.txt 2
+
 import base64
 import sys
 with open(sys.argv[1], 'r') as file:
